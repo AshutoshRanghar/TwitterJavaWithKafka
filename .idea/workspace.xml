@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43f63626-976c-4517-b59b-81fa05285e0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-twitter/src/main/java/ashutosh_twitter/TwitterProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-twitter/src/main/java/ashutosh_twitter/TwitterProducer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reco</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ProducerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ProducerDemo_WithCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ProducerDemo_WithKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ConsumerGroups.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ConsumerGroupsWithThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/Consumer_Assign_and_Seek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/ashutosh_twitter/TwitterProducer.java" />
+        <option value="$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ProducerDemo_WithCallback.java" />
+        <option value="$PROJECT_DIR$/kafka-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-twitter/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/ashutosh/elasticSearch_Kafka/ElasticSearch_Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/ashutosh/elasticSearch_Kafka/ElasticConusumerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/ashutosh/elasticSearch_Kafka/ElasticSearchBulkConsumer.java" />
+        <option value="$PROJECT_DIR$/elasticsearchkafka/src/main/java/elasticSearch_Kafka/ElasticSearchBulkConsumer.java" />
+        <option value="$PROJECT_DIR$/elasticsearchkafka/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-twitter/src/main/java/ashutosh_twitter/TwitterProducer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kafka-java-course" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="253omWqEAcYKLniCKuYknxv8FMs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchkafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchkafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchkafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchkafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchkafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticSearch_Kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ashutosh_twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kafkajavacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kafkajavacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617874040481" />
+    <property name="last_opened_file_path" value="$USER_HOME$/restful-web-services" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ashutosh_twitter" />
+      <recent name="com.gihub.ashutosh" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ashut\IdeaProjects\kafkajavacourse\elasticsearchkafka\src\main\java" />
+      <recent name="C:\Users\ashut\IdeaProjects\kafkajavacourse\kafka-basics\src\main\java" />
+      <recent name="C:\Users\ashut\IdeaProjects\kafkajavacourse\kafka-basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ElasticSearch_Consumer">
+    <configuration name="Consumer_Assign_and_Seek (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashutosh.Consumer_Assign_and_Seek" />
+      <module name="kafkabasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashutosh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchBulkConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.ashutosh.elasticSearch_Kafka.ElasticSearchBulkConsumer" />
+      <module name="kafkajavacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.ashutosh.elasticSearch_Kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearch_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.ashutosh.elasticSearch_Kafka.ElasticSearch_Consumer" />
+      <module name="kafkajavacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.ashutosh.elasticSearch_Kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gihub.ashutosh.ProducerDemo" />
+      <module name="kafkajavacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gihub.ashutosh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashutosh_twitter.TwitterProducer" />
+      <module name="kafkatwitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashutosh_twitter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElasticSearch_Consumer" />
+        <item itemvalue="Application.ElasticSearchBulkConsumer" />
+        <item itemvalue="Application.TwitterProducer (1)" />
+        <item itemvalue="Application.ProducerDemo" />
+        <item itemvalue="Application.Consumer_Assign_and_Seek (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43f63626-976c-4517-b59b-81fa05285e0e" name="Default Changelist" comment="" />
+      <created>1608110803622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608110803622</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34496644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ProducerDemo_WithCallback.java" />
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ConsumerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ConsumerGroups.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ConsumerGroupsWithThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/ashutosh_twitter/TwitterProducer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0.jar!/org/apache/kafka/clients/producer/ProducerConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ProducerDemo_WithKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/ProducerDemo.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/twitter/hbc-core/2.2.0/hbc-core-2.2.0.jar!/com/twitter/hbc/core/endpoint/StatusesFilterEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gihub/ashutosh/Consumer_Assign_and_Seek.java" />
+    <entry file="file://$PROJECT_DIR$/kafka-basics/ashutosh/ConsumerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/kafka-twitter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/ashutosh/elasticSearch_Kafka/ElasticConusumerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/ashutosh/elasticSearch_Kafka/ElasticSearch_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elasticsearchkafka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elasticsearchkafka/src/main/java/elasticSearch_Kafka/ElasticSearchBulkConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ProducerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ConsumerGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="89" selection-start-line="20" selection-start-column="89" selection-end-line="20" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ProducerDemo_WithKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/ProducerDemo_WithCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elasticsearchkafka/src/main/java/elasticSearch_Kafka/ElasticSearch_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-basics/src/main/java/ashutosh/Consumer_Assign_and_Seek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/ashutosh/elasticSearch_Kafka/ElasticSearchBulkConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-twitter/src/main/java/ashutosh_twitter/TwitterProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
